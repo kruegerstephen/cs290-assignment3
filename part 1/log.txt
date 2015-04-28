@@ -1,1 +1,21 @@
 You log goes in this  file.
+
+Start: Sat, 18 April 2015 10:45:00 -0800
+End: Sat, 18 April 2015 14:45:00 -0800
+Tasks: During this period I did the function part of part 1
+
+Start: Sun, 19 April 2015 15:25:00 -0800
+End: Sat, 19 April 2015 22:45:00 -0800
+Tasks: During this period I did the object part of part 1, ran tests, debugged and closed the project out. 
+
+Start: Fri, 24 April 2015 15:00:00 -0800
+End: Fri, 24  April 2015 18:00:00 -0800
+Tasks: During this period I got the ajax call and response working and basic html setup.
+
+Start: Sun, 26 April 2015 7:00:00 -0800
+End: Sun, 26  April 2015 23:00:00 -0800
+Tasks: During this period I got the html to generate correctly and local storage working.
+
+Start: Mon, 27 April 2015 9:00:00 -0800
+End: Mon, 27  April 2015 23:00:00 -0800
+Tasks: During this period I debugged and got the add and removed favorites working the best I could. Don't have time to get search integrated. 
